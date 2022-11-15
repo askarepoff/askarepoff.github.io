@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+
+  background-color: #ffffff;
+  color: #463d3d;
+
+  width: 980px;
+  margin: 0 auto;
+}
+
+main>h1 {
+  text-align: center;
+}
+
+main>h2 {
+  text-align: center;
+}
+
+.photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
